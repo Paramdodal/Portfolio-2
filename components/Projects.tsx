@@ -38,7 +38,7 @@ const jobProjects = [
     link: "https://github.com/Paramdodal/Book-My-Show-Clone", // replace with your link
   },
   {
-    imagePath: "/youtube.png",
+    imagePath: "/Youtube.png",
     title: "Youtube-Clone",
     description:
       "A modern YouTube clone built with React and Tailwind CSS. This project mimics the core functionalities of YouTube, including video playback.",
